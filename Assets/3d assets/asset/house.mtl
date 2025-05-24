@@ -1,0 +1,106 @@
+newmtl Enter1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl Meshesnewaotshousefourrobloxcube00211Mtl
+Material Color
+Ka 0.212044 0.20836 0.215764
+Kd 0.212044 0.20836 0.215764
+Ks 0.018294 0.0179761 0.018615 
+
+d 1
+
+Ns 255
+
+map_Ka Meshesnewaotshousefourrobloxcube00211_diff.png
+map_Kd Meshesnewaotshousefourrobloxcube00211_diff.png
+map_d Meshesnewaotshousefourrobloxcube00211_diff.png
+
+map_Bump Meshesnewaotshousefourrobloxcube00211_nmap.png
+
+map_Ns Meshesnewaotshousefourrobloxcube00211_spec.png
+
+newmtl Meshesnewaotshousefourrobloxcube00111Mtl
+Material Color
+Ka 0.0962661 0.0619075 0.0414519
+Kd 0.0962661 0.0619075 0.0414519
+Ks 0.00830531 0.00534104 0.00357624 
+
+d 1
+
+Ns 255
+
+map_Ka Meshesnewaotshousefourrobloxcube00111_diff.png
+map_Kd Meshesnewaotshousefourrobloxcube00111_diff.png
+map_d Meshesnewaotshousefourrobloxcube00111_diff.png
+
+map_Bump Meshesnewaotshousefourrobloxcube00111_nmap.png
+
+map_Ns Meshesnewaotshousefourrobloxcube00111_spec.png
+
+newmtl Meshesnewaotshousefourrobloxcube01111Mtl
+Material Color
+Ka 0.190463 0.190463 0.193972
+Kd 0.190463 0.190463 0.193972
+Ks 0.0164321 0.0164321 0.0167349 
+
+d 1
+
+Ns 255
+
+map_Ka Meshesnewaotshousefourrobloxcube01111_diff.png
+map_Kd Meshesnewaotshousefourrobloxcube01111_diff.png
+map_d Meshesnewaotshousefourrobloxcube01111_diff.png
+
+map_Bump Meshesnewaotshousefourrobloxcube01111_nmap.png
+
+map_Ns Meshesnewaotshousefourrobloxcube01111_spec.png
+
+newmtl Meshesnewaotshousefourrobloxcube00411Mtl
+Material Color
+Ka 0.0445526 0.0399472 0.0342302
+Kd 0.0445526 0.0399472 0.0342302
+Ks 0.00384376 0.00344642 0.00295319 
+
+d 1
+
+Ns 255
+
+map_Ka Meshesnewaotshousefourrobloxcube00411_diff.png
+map_Kd Meshesnewaotshousefourrobloxcube00411_diff.png
+map_d Meshesnewaotshousefourrobloxcube00411_diff.png
+
+map_Bump Meshesnewaotshousefourrobloxcube00411_nmap.png
+
+map_Ns Meshesnewaotshousefourrobloxcube00411_spec.png
+
+newmtl Window1Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+newmtl Window2Mtl
+Material Color
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Window2_diff.png
+map_Kd Window2_diff.png
+map_d Window2_diff.png
+

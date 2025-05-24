@@ -1,0 +1,90 @@
+newmtl Meshpart1Mtl
+Material Color
+Ka 0.0962661 0.0780566 0.0600316
+Kd 0.0962661 0.0780566 0.0600316
+Ks 0.00830531 0.00673429 0.0051792 
+
+d 1
+
+Ns 255
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+map_Bump Meshpart1_nmap.png
+
+map_Ns Meshpart1_spec.png
+
+newmtl Meshpart10Mtl
+Material Color
+Ka 0.173439 0.136099 0.113921
+Kd 0.173439 0.136099 0.113921
+Ks 0.0115626 0.00907324 0.00759473 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart8_diff.png
+map_Kd Meshpart8_diff.png
+map_d Meshpart8_diff.png
+
+map_Bump Meshpart8_nmap.png
+
+map_Ns Meshpart8_spec.png
+
+newmtl Meshpart8Mtl
+Material Color
+Ka 0.0962661 0.0780566 0.0600316
+Kd 0.0962661 0.0780566 0.0600316
+Ks 0.00641774 0.00520377 0.00400211 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart8_diff.png
+map_Kd Meshpart8_diff.png
+map_d Meshpart8_diff.png
+
+map_Bump Meshpart8_nmap.png
+
+map_Ns Meshpart8_spec.png
+
+newmtl Meshpart2Mtl
+Material Color
+Ka 0.101145 0.113921 0.0384727
+Kd 0.101145 0.113921 0.0384727
+Ks 0.00277653 0.00312724 0.00105611 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart2_diff.png
+map_Kd Meshpart2_diff.png
+map_d Meshpart2_diff.png
+
+map_Bump Meshpart2_nmap.png
+
+map_Ns Meshpart2_spec.png
+
+newmtl Meshestree6tree1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0322335 0.0318 0.03311 
+
+d 1
+
+Ns 255
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+map_Bump Meshpart1_nmap.png
+
+map_Ns Meshpart1_spec.png
+
